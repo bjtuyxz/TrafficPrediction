@@ -26,9 +26,9 @@ Output for stock market multi-dimensional multi-sequential predictions:
 
 Output for stock market  predictions, sequence to one point with prediction value:
 
-![](.\Figure_2.png)
+![](https://github.com/bjtuyxz/TrafficPrediction/blob/master/Figure_2.png)
 
 Output for stock market  predictions, sequence to one point with truth value:
 
-![](.\Figure_1.png)
+![](https://github.com/bjtuyxz/TrafficPrediction/blob/master/Figure_1.png)
 
