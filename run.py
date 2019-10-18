@@ -19,6 +19,7 @@ def plot_results(predicted_data, true_data):
     plt.plot(predicted_data, label='Prediction')
     plt.legend()
     plt.show()
+    plt.imsave("./fig1.jpg")
 
 
 def plot_results_multiple(predicted_data, true_data, prediction_len):
@@ -84,6 +85,7 @@ def main():
 
     # plot_results_multiple(predictions, y_test, configs['data']['sequence_length'])
     plot_results(predictions, y_test)
+
 
 
 if __name__ == '__main__':

@@ -23,3 +23,12 @@ Output for sine wave sequential prediction:
 Output for stock market multi-dimensional multi-sequential predictions:
 
 ![Output for stock market multiple sequential predictions](https://www.altumintelligence.com/assets/time-series-prediction-using-lstm-deep-neural-networks/sp500_multi_2d.png)
+
+Output for stock market  predictions, sequence to one point with prediction value:
+
+![](.\Figure_2.png)
+
+Output for stock market  predictions, sequence to one point with truth value:
+
+![](.\Figure_1.png)
+
